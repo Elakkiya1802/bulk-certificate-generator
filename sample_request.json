@@ -1,0 +1,13 @@
+{
+  "course_title": "Python Backend Bootcamp",
+  "organization": "Acme Academy",
+  "issue_date": "2026-10-11",
+  "signatory_name": "Dr. A. Kumar",
+  "recipients": [
+    {"name": "Priya Sharma", "email": "priya@example.com"},
+    {"name": "Arun Raj", "email": "arun@example.com"},
+    {"name": "Meena Iyer", "email": "not-an-email"},
+    {"name": "", "email": "blank-name@example.com"},
+    {"name": "ராஜ்", "email": "tamil-name@example.com"}
+  ]
+}
